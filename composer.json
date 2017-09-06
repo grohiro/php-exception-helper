@@ -1,0 +1,12 @@
+{
+    "name": "grohiro/php-exception-helpers",
+    "description": "Helper functions for Exception in PHP",
+    "type": "library",
+    "authors": [
+        {
+            "name": "grohiro",
+            "email": "khirokawa@growk.jp"
+        }
+    ],
+    "require": {}
+}
