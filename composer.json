@@ -1,12 +1,22 @@
 {
-    "name": "grohiro/php-exception-helpers",
+    "name": "grohiro/php-exception-helper",
     "description": "Helper functions for Exception in PHP",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "grohiro",
             "email": "khirokawa@growk.jp"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-4": {
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
 }
